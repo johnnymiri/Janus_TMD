@@ -1,4 +1,7 @@
 # Computational Modeling of Janus Transition Metal Dichalcogenide Bilayers
+
+This is a computational framework for generating properties of Twisted Janus TMD Bilayers. A summary of the theory and motivation is in the abstract below. The main kit file is an object-oriented code that allows you to generate properties from the .dat base parameters, a declared twist angle, and lattice constant. Then you can model a host of properties including band structure over an arbitrary path in Brillouin Zone, the moire potential, and charge density distribution.
+
 by Johnny Miri
 PI: Efthimios Kaxiras
 Mentor: Daniel Larson, Gabriel Schleder
